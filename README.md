@@ -1,4 +1,4 @@
-# Get-DotNetRelease
-This function is used to find .NET Framework 4.5 and newer versions using PowerShell
+# Get-DotNetReleaseVersion
+This function uses PowerShell to open the registry and find .NET Framework 4.5 and newer versions
 # Example Usage
-Get-DotNetRelease -ComputerName 'ComputerName'
+Get-DotNetReleaseVersion -ComputerName 'Server01'
