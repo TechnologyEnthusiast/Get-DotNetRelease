@@ -1,8 +1,8 @@
 #
-# Get-DotNetRelease.ps1
+# Get-DotNetReleaseVersion.ps1
 #
 
-Function Get-DotNetRelease
+Function Get-DotNetReleaseVersion
 {
 	[CmdletBinding()]
 	Param ( 
